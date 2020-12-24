@@ -8,8 +8,14 @@ OpenATM Fork configs...
 
 Comments regarding educational and reg aspects
 
-**Materials**
-- 
+## Materials
+- 5V Power Supply
+- Resistor and Leads
+- Arduino SD Card Shield
+- Arduino Uno ATmega328 or Rev3
+- Apex 3000 Cash Acceptor or (3400)
+- Mounting Squares, Velcro, and Zip ties
+> Make sure to have the required tools and a knowledge  of soldering
 
 ## Diagrams
 <p align="center">
