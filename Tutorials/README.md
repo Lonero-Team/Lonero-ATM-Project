@@ -12,6 +12,10 @@ Archived instructions....
 </p>
 Following this design template of a 12"*12" aluminum piece of metal, make the rectangular cuts. Drill the six rivet holes and four holes seen on the template. This will help with attaching the bill acceptor.
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/holesvw.png">
+</p>
+
 ### Step 2
 
 ### Step 3
