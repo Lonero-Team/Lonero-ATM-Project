@@ -6,6 +6,11 @@ Archived instructions....
 
 
 ### Step 1
+**Step 1:** is the faceplate which is optional. Once can also make a custom case, 3D printed case, or something w/ a CNC machine. The sky is the limit for really creative and well designed enclosures.
+<p align="center">
+<img src="https://openbitcoinatm.files.wordpress.com/2014/02/obcatm_faceplate.png" width="550">
+</p>
+Following this design template of a 12"*12" aluminum piece of metal, make the rectangular cuts. Drill the six rivet holes and four holes seen on the template. This will help with attaching the bill acceptor.
 
 ### Step 2
 
