@@ -19,3 +19,5 @@ The **Lonero ATM Project** is a fork of [openbitcoinatm](https://openbitcoinatm.
 <img src="https://openbitcoinatm.files.wordpress.com/2014/02/obcatm_faceplate.png" width="550">
 <img src="https://content.instructables.com/ORIG/FMA/9Q3M/HVTWBLCH/FMA9Q3MHVTWBLCH.png" width="550">
 </p>
+
+## Terms:
