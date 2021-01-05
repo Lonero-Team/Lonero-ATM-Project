@@ -16,6 +16,12 @@ Following this design template of a 12"*12" aluminum piece of metal, make the re
 <img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/holesvw.png">
 </p>
 
+If you were to make the case; \
+Cut two aluminum angles into 11 1/2″ lengths (as per original instructions). \
+Drill/[tap](https://en.wikipedia.org/wiki/Tap_and_die#mediaviewer/File:Tap_and_T-wrench.jpg) two holes, and drill three rivet holes for the faceplate. (See diagram to avoid confusion).
+
+Remember to rivet the two aluminum angles. You will need to river them to the sides of the flaceplate. Make sure to allow for
+
 ### Step 2
 
 ### Step 3
