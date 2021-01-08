@@ -20,7 +20,7 @@ If you were to make the case; \
 Cut two aluminum angles into 11 1/2″ lengths (as per original instructions). \
 Drill/[tap](https://en.wikipedia.org/wiki/Tap_and_die#mediaviewer/File:Tap_and_T-wrench.jpg) two holes, and drill three rivet holes for the faceplate. (See diagram to avoid confusion).
 
-Remember to rivet the two aluminum angles. You will need to rivet them to the sides of the flaceplate. Make sure to allow for (about 1/8″) room to overlap for the surface at the front of the box (as per instructions). The angles should be positioned to lie inside the box.
+Remember to rivet the two aluminum angles. You will need to rivet them to the sides of the flaceplate. Make sure to allow for (about 1/8″) room to overlap the surface at the front of the box (as per instructions). The angles should be positioned to lie inside the box.
 
 ### Step 2
 
