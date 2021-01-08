@@ -28,6 +28,12 @@ Remember to rivet the two aluminum angles. You will need to rivet them to the si
 
 Next, you are going to have to drill 4 holes in the acrylic case (if you decide to use an acrylic case) to match with the metal frame. Please make sure to use an acrylic bit, or  drill slowly.
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/plugbarrel.png">
+</p>
+
+The next part is if you go with the acrylic case, (or have a difference case), is to solder a barrel plug.
+
 ### Step 2
 
 ### Step 3
