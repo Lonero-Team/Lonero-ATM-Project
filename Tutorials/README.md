@@ -22,6 +22,10 @@ Drill/[tap](https://en.wikipedia.org/wiki/Tap_and_die#mediaviewer/File:Tap_and_T
 
 Remember to rivet the two aluminum angles. You will need to rivet them to the sides of the flaceplate. Make sure to allow for (about 1/8″) room to overlap the surface at the front of the box (as per instructions). The angles should be positioned to lie inside the box.
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/fabrivot.png">
+</p>
+
 ### Step 2
 
 ### Step 3
