@@ -26,6 +26,8 @@ Remember to rivet the two aluminum angles. You will need to rivet them to the si
 <img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/fabrivot.png">
 </p>
 
+Next, you are going to have to
+
 ### Step 2
 
 ### Step 3
