@@ -26,7 +26,7 @@ Remember to rivet the two aluminum angles. You will need to rivet them to the si
 <img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/fabrivot.png">
 </p>
 
-Next, you are going to have to
+Next, you are going to have to drill 4 holes in the acrylic case (if you decide to use an acrylic case) to match with the metal frame. Please make sure to use an acrylic bit, or  drill slowly.
 
 ### Step 2
 
