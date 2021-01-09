@@ -32,7 +32,7 @@ Next, you are going to have to drill 4 holes in the acrylic case (if you decide 
 <img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/plugbarrel.png">
 </p>
 
-The next part is if you go with the acrylic case, (or have a difference case), is to solder a barrel plug. This will be done ww/ 
+The next part is if you go with the acrylic case, (or have a difference case), is to solder a barrel plug. This will be done w/ 16" leads that can be soldered to the barrel plug and J2 connectors. One can put PVC tape to hold the wires in place.
 
 ### Step 2
 
