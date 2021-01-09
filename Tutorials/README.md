@@ -6,7 +6,7 @@ Archived instructions....
 
 
 ### Step 1
-**Step 1:** is the faceplate which is optional. Once can also make a custom case, 3D printed case, or something w/ a CNC machine. The sky is the limit for really creative and well designed enclosures.
+Step 1: is the faceplate (which is optional). One can also make a custom case, 3D printed case, or something w/ a CNC machine. The sky is the limit for really creative and well designed enclosures.
 <p align="center">
 <img src="https://openbitcoinatm.files.wordpress.com/2014/02/obcatm_faceplate.png" width="550">
 </p>
