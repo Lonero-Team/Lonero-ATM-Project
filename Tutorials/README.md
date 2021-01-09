@@ -42,6 +42,7 @@ The next step is to attach the bill acceptor and printer. You can use zip ties o
 </p>
 
 ### Step 3
+The next step is to start setting up the *Arduino UNO*. First, download the [IDE](https://create.arduino.cc/) for Arduino. You can use either the cloud or web editor. Use the [IDE](https://create.arduino.cc/) to upload the [openloneroatm.ino](https://github.com/Lonero-Team/Lonero-ATM-Project/blob/main/OpenATM%20Files/openloneroatm.ino) file to the Arduino.
 
 ### Step 4
 
