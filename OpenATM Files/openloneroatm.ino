@@ -136,7 +136,7 @@ void setup(){
   Serial.println("Parameters set");
   
    #if SET_RTCLOCK
-    // following line sets the RTC to the date & time for Bitcoin Transaction log
+    // following line sets the RTC to the date & time for Lonero Transaction log
      RTC.adjust(DateTime(__DATE__, __TIME__));
    #endif
 
