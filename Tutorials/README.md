@@ -45,6 +45,14 @@ The next step is to attach the bill acceptor and printer. You can use zip ties o
 The next step is to start setting up the *Arduino UNO*. First, download the [IDE](https://create.arduino.cc/) for Arduino. You can use either the cloud or web editor. Use the [IDE](https://create.arduino.cc/) to upload the [openloneroatm.ino](https://github.com/Lonero-Team/Lonero-ATM-Project/blob/main/OpenATM%20Files/openloneroatm.ino) file to the Arduino.
 
 ### Step 4
+The next step is to solder the resistor and leads to the SD shield per the circuit diagram.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/SDShield.png">
+</p>
+<p align="center">
+<img src="https://content.instructables.com/ORIG/FMA/9Q3M/HVTWBLCH/FMA9Q3MHVTWBLCH.png" width="550">
+</p>
 
 ### Step 5
 
