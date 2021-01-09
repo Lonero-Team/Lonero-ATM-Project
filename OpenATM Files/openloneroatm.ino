@@ -180,8 +180,8 @@ if(val == HIGH)
 }
 
 /*****************************************************
-getNextBitcoin
-- Read next bitcoin QR Code from SD Card
+getNextLonero
+- Read next lonero QR Code from SD Card
 
 ******************************************************/
 
