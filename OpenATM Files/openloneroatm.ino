@@ -64,7 +64,7 @@ Copyright (c) 2020 Lonero
  
  const int DOLLAR_PULSE = 4; //pulses per dollar
  const int PULSE_TIMEOUT = 2000; //ms before pulse timeout
- const int MAX_LONERO = 10; //max btc per SD card
+ const int MAX_LONERO = 10; //max lnr per SD card
  const int HEADER_LEN = 25; //maximum size of bitmap header
  
  #define SET_RTCLOCK      1 // Set to true to set Lonero transaction log clock to program compile time.
