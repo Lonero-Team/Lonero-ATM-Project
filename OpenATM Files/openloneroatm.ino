@@ -1,4 +1,7 @@
 //*************************************************************************
+OpenLoneroATM v1.0
+Copyright (c) 2020 Lonero
+//*************************************************************************
  OpenBitcoinATM
  (ver. 1.5.4)
     
@@ -61,10 +64,10 @@
  
  const int DOLLAR_PULSE = 4; //pulses per dollar
  const int PULSE_TIMEOUT = 2000; //ms before pulse timeout
- const int MAX_BITCOINS = 10; //max btc per SD card
+ const int MAX_LONERO = 10; //max btc per SD card
  const int HEADER_LEN = 25; //maximum size of bitmap header
  
- #define SET_RTCLOCK      1 // Set to true to set Bitcoin transaction log clock to program compile time.
+ #define SET_RTCLOCK      1 // Set to true to set Lonero transaction log clock to program compile time.
  #define TEST_MODE        1 // Set to true to not delete private keys (prints the same private key for each dollar).
  
  #define DOUBLE_HEIGHT_MASK (1 << 4) //size of pixels
@@ -72,7 +75,7 @@
  
  RTC_DS1307 RTC; // define the Real Time Clock object
 
- char LOG_FILE[] = "btclog.txt"; //name of Bitcoin transaction log file
+ char LOG_FILE[] = "lnrlog.txt"; //name of Lonero transaction log file
  
  const int chipSelect = 10; //SD module
  
@@ -149,7 +152,7 @@ void loop(){
       return;
  
      if(pulseCount == DOLLAR_PULSE)
-       getNextBitcoin(); //dollar baby!
+       getNextLonero(); //dollar baby!
        
      //----------------------------------------------------------
      // Add additional currency denomination logic here: $5, $10, $20      
@@ -182,9 +185,9 @@ getNextBitcoin
 
 ******************************************************/
 
-int getNextBitcoin(){
+int getNextLonero(){
     
-  int BTCNumber = 0, i = 0;
+  int LNRNumber = 0, i = 0;
  // long counter = 0;
  char cBuf, cPrev;
   
@@ -192,20 +195,20 @@ int getNextBitcoin(){
        
     Serial.println("card initialized.");
  
-    while(BTCNumber<MAX_BITCOINS){
+    while(LNRNumber<MAX_LONERO){
       
          //prepend file name
-         String temp = "BTC_";
+         String temp = "LNR_";
          //add file number
-         temp.concat(BTCNumber);
+         temp.concat(LNRNumber);
          //append extension
-         temp.concat(".btc"); 
+         temp.concat(".lnr"); 
          
          //char array
          char filename[temp.length()+1];   
          temp.toCharArray(filename, sizeof(filename));
         
-         //check if the bitcoin QR code exist on the SD card
+         //check if the lonero QR code exist on the SD card
          if(SD.exists(filename)){
              Serial.print("file exists: ");
              Serial.println(filename);
@@ -217,20 +220,20 @@ int getNextBitcoin(){
              
                //----------------------------------------------------------
                // Depends on Exchange Rate 
-               // May be removed during volitile Bitcoin market periods
+               // May be removed during volitile Lonero market periods
                //----------------------------------------------------------
              
-               ///printer->println("Value .002 BTC");
+               ///printer->println("Value .002 LNR");
 
              
                //print QR code off the SD card
                printBitmap(filename); 
 
-               printer->println("Official Bitcoin Currency.");
+               printer->println("Official Lonero Currency.");
 
                printer->println("Keep secure.");
 
-               printer->println("OpenBitcoinATM.org");
+               printer->println("lonero.org");
                
                printer->println(" ");
                printer->println(" ");
@@ -238,13 +241,13 @@ int getNextBitcoin(){
                printer->println(" ");
 
 
-          break; //stop looking, bitcoin file found
+          break; //stop looking, lonero file found
          }  
           else{
-            if (BTCNumber >= MAX_BITCOINS -1){
+            if (LNRNumber >= MAX_LONERO -1){
               
                 //----------------------------------------------------------
-                // Disable bill acceptor when bitcoins run out 
+                // Disable bill acceptor when lonero runs out 
                 // pull low on Apex 5400 violet wire
                 //----------------------------------------------------------
               
@@ -252,15 +255,15 @@ int getNextBitcoin(){
              Serial.print("file does not exist: ");
              Serial.println(filename);        
         }
-    //increment bitcoin number
-    BTCNumber++;
+    //increment lonero number
+    LNRNumber++;
     }
 }  
 
 /*****************************************************
 printBitmap(char *filename)
 - open QR code bitmap from SD card. Bitmap file consists of 
-byte array output by OpenBitcoinQRConvert.pde
+byte array output by OpenLoneroQRConvert.pde
 width of bitmap should be byte aligned -- evenly divisable by 8
 
 
@@ -361,7 +364,7 @@ void printBitmap(char *filename){
 
 /*****************************************************
 updateLog()
-Updates Bitcoin transaction log stored on SD Card
+Updates Lonero transaction log stored on SD Card
 Logfile name = LOG_FILE
 
 ******************************************************/
@@ -372,7 +375,7 @@ void updateLog(){
       now=RTC.now();
       
       logfile = SD.open(LOG_FILE, FILE_WRITE); 
-      logfile.print("Bitcoin Transaction ");
+      logfile.print("Lonero Transaction ");
       logfile.print(now.unixtime()); // seconds since 1/1/1970
       logfile.print(",");
       logfile.print(now.year(), DEC);
