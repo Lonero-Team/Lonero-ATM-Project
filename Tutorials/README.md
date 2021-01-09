@@ -35,6 +35,11 @@ Next, you are going to have to drill 4 holes in the acrylic case (if you decide 
 The next part is if you go with the acrylic case, (or have a difference case), is to solder a barrel plug. This will be done w/ 16" leads that can be soldered to the barrel plug and J2 connectors. One can put PVC tape to hold the wires in place.
 
 ### Step 2
+The next step is to attach the bill acceptor and printer. You can use zip ties or four screws, washers and nuts.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/acceptorprinter.png">
+</p>
 
 ### Step 3
 
