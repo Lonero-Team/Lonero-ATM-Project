@@ -84,5 +84,5 @@ Now you need to work on configuring the bill acceptor.
 <img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/config_bill_acceptor.PNG">
 </p>
 <p align="center">
-*Configuration Card sample*
+| Configuration Card sample |
 </p>
