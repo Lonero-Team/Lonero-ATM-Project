@@ -68,7 +68,7 @@ Once you attach the SD shield to the Arduino, mount the Arduino to the "faceplat
 </p>
 
 ### Step 6
-The next step is to create preconfigured private keys for Lonero. Once you create Lonero private keys, follow these instructions:
+The next step is to create preconfigured private keys for [Lonero](https://lonero.org). Once you create [Lonero](https://lonero.org) private keys, follow these instructions:
 
 ### Step 7
 
