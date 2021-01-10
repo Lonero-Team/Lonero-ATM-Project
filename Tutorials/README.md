@@ -79,3 +79,10 @@ For the naming conventions, make sure that each QR codoe is renamed with the nam
 
 ### Step 7
 Now you need to work on configuring the bill acceptor.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/config_bill_acceptor.PNG">
+</p>
+<p align="center">
+*Configuration Card sample*
+</p>
