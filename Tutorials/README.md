@@ -78,3 +78,4 @@ The next step is to create preconfigured private keys for [Lonero](https://loner
 For the naming conventions, make sure that each QR codoe is renamed with the naming convention `LNR_1.lnr`, `LNR_2.lnr`, etc. in the SD card's root directory.
 
 ### Step 7
+Now you need to work on configuring the bill acceptor.
