@@ -75,6 +75,6 @@ The next step is to create preconfigured private keys for [Lonero](https://loner
 3. Create QR codes for the private  keys
 4. Copy the `logo.oba` [file](https://github.com/Lonero-Team/Lonero-ATM-Project/blob/main/OpenATM%20Files/logo.oba) into the root directory of the SD card.
 
-For the naming conventions, make sure that each QR codoe is renamed with the naming convention LNR_1.lnr, LNR_2.lnr, etc. in the SD card's root directory.
+For the naming conventions, make sure that each QR codoe is renamed with the naming convention `LNR_1.lnr`, `LNR_2.lnr`, etc. in the SD card's root directory.
 
 ### Step 7
