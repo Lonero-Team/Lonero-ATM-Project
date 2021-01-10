@@ -69,7 +69,11 @@ Once you attach the SD shield to the Arduino, mount the Arduino to the "faceplat
 
 ### Step 6
 The next step is to create preconfigured private keys for [Lonero](https://lonero.org). Once you create [Lonero](https://lonero.org) private keys, follow these instructions:
+1. Download this repo
+2. 'cd'into `QRCode Maker/` and run the `LNRQRMaker.html` file.
+3. Create QR codes for the private  keys
+4. Copy the `logo.oba` [file](https://github.com/Lonero-Team/Lonero-ATM-Project/blob/main/OpenATM%20Files/logo.oba) into the root directory of the SD card.
+
+For the naming conventions, make sure that 
 
 ### Step 7
-
-### Step 8
