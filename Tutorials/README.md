@@ -55,6 +55,11 @@ The next step is to solder the resistor and leads to the SD shield per the circu
 </p>
 
 ### Step 5
+Step 5 involves attaching the components.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/UNOSDShield.png">
+</p>
 
 ### Step 6
 
