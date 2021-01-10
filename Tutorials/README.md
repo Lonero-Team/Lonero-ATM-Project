@@ -61,7 +61,7 @@ Step 5 involves attaching the components.
 <img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/UNOSDShield.png">
 </p>
 
-Once you attach the SD shield to the Arduino, mount the
+Once you attach the SD shield to the Arduino, mount the Arduino to the "faceplate" of your case design. Connect the J2 connectors and rest of the components as  per the circuit design. Make sure to include a 5V power supply for rechargeability capability.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/faceplatecompnt.png">
