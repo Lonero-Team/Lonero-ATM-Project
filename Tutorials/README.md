@@ -61,6 +61,12 @@ Step 5 involves attaching the components.
 <img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/UNOSDShield.png">
 </p>
 
+Once you attach the SD shield to the Arduino, mount the
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/faceplatecompnt.png">
+</p>
+
 ### Step 6
 
 ### Step 7
