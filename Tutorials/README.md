@@ -89,4 +89,4 @@ Now you need to work on configuring the bill acceptor.
 
 Next, you'll need to print the configuration card for your bill acceptor. The manual includes a configuration card. Fill in the ovals in the configuration card example w/ dark circles.
 
-Hold the reset button for > 10 seconds. When the lights start blinking, feed the configuration card to the bill acceptor's slot. The acceptor will reject it and then rapidly blinked if it was configured correctly.
+Hold the reset button for > 10 seconds. When the lights start blinking, feed the configuration card to the bill acceptor's slot. The acceptor will reject it and then rapidly blink if it was configured correctly.
